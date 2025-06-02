@@ -1,5 +1,5 @@
 <div style="overflow:hidden;">
-  <img src="https://drive.google.com/uc?export=view&id=1ZE40JtAEUEDsQrjk14eh5PWvAMVVbChe" style="width:100%; height:100px;" />
+  <img src="https://drive.google.com/uc?export=view&id=1ZE40JtAEUEDsQrjk14eh5PWvAMVVbChe" style="width:100%; height:200px;" />
 </div>
 
 <div align="center">
