@@ -1,4 +1,4 @@
-<div style="width: 100%; height: 400px; overflow: hidden;">
+<div style="width: 100%; height: 300px; overflow: hidden;">
   <img src="https://drive.google.com/uc?export=view&id=1ZE40JtAEUEDsQrjk14eh5PWvAMVVbChe" style="width: 100%; object-fit: cover;" />
 </div>
 
