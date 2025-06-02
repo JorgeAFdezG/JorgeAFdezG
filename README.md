@@ -2,14 +2,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1ZE40JtAEUEDsQrjk14eh5PWvAMVVbChe" style="width:100%; height:300px;" />
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://drive.google.com/uc?export=view&id=1ZE40JtAEUEDsQrjk14eh5PWvAMVVbChe" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
